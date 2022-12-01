@@ -1,6 +1,9 @@
 import React, { useEffect, useContext } from "react";
-import "./App.css";
 import Button from "./components/Button";
+import Countdown from "./components/Countdown";
+import Settings from "./components/Settings";
+import Pomodoro from "./components/Pomodoro";
+import "./App.css";
 
 function App() {
   return (
